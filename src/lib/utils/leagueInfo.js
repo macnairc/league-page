@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "935443871251779584"; // your league ID
-export const leagueName = "FFL BestBALLERS"; // your league name
+export const leagueID = "1201737941970321408"; // your league ID
+export const leagueName = "Rooster Dynasty Bestball"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
